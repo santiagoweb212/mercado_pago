@@ -38,7 +38,7 @@ app.post("/create-preference", async (req: Request, res: Response) => {
           success: "http://localhost:5173/",
         },
         auto_return: "approved",
-        notification_url: "https://664f-161-132-41-81.ngrok-free.app/webhook",
+        notification_url: "https://ad75-161-132-41-81.ngrok-free.app/webhook",
       },
       requestOptions,
     });
